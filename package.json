@@ -1,0 +1,18 @@
+{
+  "name": "ad_studio",
+  "version": "0.0.0",
+  "main": "server.js",
+  "author": "mjone",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.13.0",
+    "nodemailer": "^4.0.1",
+    "stringbuilder": "0.0.11"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "description": ""
+}
